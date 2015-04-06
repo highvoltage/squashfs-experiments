@@ -2,6 +2,8 @@
 
 Script to test performance and compression of squashfs images
 
+See also: https://jonathancarter.org/2015/04/06/squashfs-performance-testing/
+
 Dependencies: squashfs-tools
 
 The way it currently works, you'll need a lot of disk space. (by default, around 25GB), will probably be changed in future versions.
